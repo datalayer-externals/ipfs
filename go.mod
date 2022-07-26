@@ -69,7 +69,7 @@ require (
 	github.com/jbenet/goprocess v0.1.4
 	github.com/libp2p/go-doh-resolver v0.4.0
 	github.com/libp2p/go-libp2p v0.20.3
-	github.com/libp2p/go-libp2p-core v0.16.1
+	github.com/libp2p/go-libp2p-core v0.19.0
 	github.com/libp2p/go-libp2p-http v0.2.1
 	github.com/libp2p/go-libp2p-kad-dht v0.16.0
 	github.com/libp2p/go-libp2p-kbucket v0.4.7
@@ -80,7 +80,7 @@ require (
 	github.com/libp2p/go-libp2p-record v0.1.3
 	github.com/libp2p/go-libp2p-resource-manager v0.3.0
 	github.com/libp2p/go-libp2p-routing-helpers v0.2.3
-	github.com/libp2p/go-libp2p-testing v0.9.2
+	github.com/libp2p/go-libp2p-testing v0.11.0
 	github.com/libp2p/go-socket-activation v0.1.0
 	github.com/miekg/dns v1.1.48
 	github.com/mitchellh/go-homedir v1.1.0
