@@ -91,7 +91,7 @@ require (
 	github.com/multiformats/go-multihash v0.2.1
 	github.com/opentracing/opentracing-go v1.2.0
 	github.com/pkg/errors v0.9.1
-	github.com/prometheus/client_golang v1.13.0
+	github.com/prometheus/client_golang v1.14.0
 	github.com/stretchr/testify v1.8.0
 	github.com/syndtr/goleveldb v1.0.0
 	github.com/wI2L/jsondiff v0.2.0
@@ -213,7 +213,7 @@ require (
 	github.com/pbnjay/memory v0.0.0-20210728143218-7b4eea64cf58 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/polydawn/refmt v0.0.0-20201211092308-30ac6d18308e // indirect
-	github.com/prometheus/client_model v0.2.0 // indirect
+	github.com/prometheus/client_model v0.3.0 // indirect
 	github.com/prometheus/common v0.37.0 // indirect
 	github.com/prometheus/procfs v0.8.0 // indirect
 	github.com/prometheus/statsd_exporter v0.21.0 // indirect
